@@ -1,0 +1,102 @@
+78 ?- start.
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: 1.
+Current letters: [a,b,c]
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 2.
+Enter a letter: |: d.
+Enter position (starting from 1): |: 2.
+Letter added.
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 3.
+Enter a letter: |: e.
+Letter added at the top.
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 4.
+Enter a letter: |: f.
+Letter added at the bottom.
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 1.
+Current letters: [e,a,d,b,c,f]
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 6.
+All letters deleted.
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 1.
+Current letters: []
+
+Hi. This is the Name Game.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice: |: 7.
+Goodbye!
+true .
